@@ -93,33 +93,6 @@ Implemented and compared 7 machine learning algorithms:
 5. BMI
 
 
-##  Project Structure
-heart-disease-prediction/
-│
-├── data/
-│ └── cardio_train.csv
-│
-├── notebooks/
-│ └── heart_disease_prediction.ipynb
-│
-├── models/
-│ ├── best_model_random_forest.pkl
-│ ├── scaler.pkl
-│ └── model_metadata.pkl
-│
-├── visualizations/
-│ ├── target_distribution.png
-│ ├── correlation_heatmap.png
-│ ├── model_comparison.png
-│ ├── confusion_matrix_best_model.png
-│ ├── roc_curve_best_model.png
-│ └── feature_importance.png
-│
-├── requirements.txt
-├── README.md
-└── PROJECT_SUMMARY.txt
-
-
 
 ##  Installation & Usage
 
@@ -187,10 +160,10 @@ This project was developed as part of a Machine Learning course assignment, demo
 - Model evaluation and comparison
 - Real-world healthcare application
 
-## 👨‍💻 Author
+##  Author
 Reem Hamraz
 
-## 📝 License
+##  License
 This project is open source and available under the MIT License.
 
 
