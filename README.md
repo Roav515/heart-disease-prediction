@@ -161,7 +161,7 @@ This project was developed as part of a Machine Learning course assignment, demo
 - Real-world healthcare application
 
 ##  Author
-Reem Hamraz
+Rohit Yadav
 
 ##  License
 This project is open source and available under the MIT License.
